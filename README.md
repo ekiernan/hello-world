@@ -17,6 +17,12 @@ I am just going to keep typing.
 # et alors?
 * This indents
   + And this does too
-  + And this does too
+  + And this does too.
+  
+  Does this
+  
+  But this doesn't
 
 Can I indent?
+
+   Now?
